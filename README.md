@@ -5,3 +5,5 @@ Good to start .. na data money no let me practicalize before.
 but now am ready
 
 this .md means Markdown.
+
+now i don clone and create a local repo.
