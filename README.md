@@ -4,4 +4,4 @@ Good to start .. na data money no let me practicalize before.
 
 but now am ready
 
-theis .md means Markdown.
+this .md means Markdown.
